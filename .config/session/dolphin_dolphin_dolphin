@@ -1,0 +1,13 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x1ffile:///home/baron/repo/gestura\x00\x00\x00\x00\x01\x00\x00\x00(file:///home/baron/repo/gestura/app.json\x00\x00\x00\x0e\x00\x00\x00#file:///home/baron/repo/gestura/app\x00\x00\x00&file:///home/baron/repo/gestura/assets\x00\x00\x00)file:///home/baron/repo/gestura/constants\x00\x00\x00&file:///home/baron/repo/gestura/images\x00\x00\x00,file:///home/baron/repo/gestura/node_modules\x00\x00\x00'file:///home/baron/repo/gestura/scripts\x00\x00\x00*file:///home/baron/repo/gestura/.gitignore\x00\x00\x00(file:///home/baron/repo/gestura/app.json\x00\x00\x000file:///home/baron/repo/gestura/eslint.config.js\x00\x00\x00-file:///home/baron/repo/gestura/expo-env.d.ts\x00\x00\x00,file:///home/baron/repo/gestura/package.json\x00\x00\x001file:///home/baron/repo/gestura/package-lock.json\x00\x00\x00)file:///home/baron/repo/gestura/README.md\x00\x00\x00-file:///home/baron/repo/gestura/tsconfig.json\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x06w\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00>file:///home/baron/Games/Crime_Scene_Cleaner_v1.0.80-Razor1911\x00\x00\x00\x00\x01\x00\x00\x00Vfile:///home/baron/Games/Crime_Scene_Cleaner_v1.0.80-Razor1911/_INSTALL%20TUTORIAL.txt\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
