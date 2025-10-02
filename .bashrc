@@ -1,0 +1,1 @@
+/home/baron/linuxtoolbox/mybash/.bashrc
